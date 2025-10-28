@@ -29,7 +29,7 @@ It allows users to **Create**, **Read**, **Update**, **Delete**, **Search**, and
 ---
 
 ##  Project Structure
-
+```bash
 employee_management/
 ├── employee/
 │   ├── migrations/
@@ -48,7 +48,7 @@ employee_management/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
+```
 ---
 
 ## Setup Instructions (using virtual enviroment)
